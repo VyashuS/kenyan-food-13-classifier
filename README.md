@@ -79,10 +79,6 @@ To look at my training logs:
 tensorboard --logdir logs/FT-LOGS-KenyanFood13
 ```
 
-## Model weights
-
-The trained model file is too big for this repo, so I uploaded it separately. Download it from the [Releases page](ADD-YOUR-RELEASE-LINK-HERE).
-
 ## Tools I used
 
 Python, PyTorch, torchvision, scikit-learn, pandas, matplotlib, TensorBoard
